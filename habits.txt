@@ -15,3 +15,6 @@ interruption.
 
 The fifth habit - always learn - Programmers should always learn new
 things about programming languages, how to better debug.
+
+The sixth habit - collaboration - Programming is like team sport, it is
+not solo activity. You can help each other.
