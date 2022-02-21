@@ -1,2 +1,6 @@
 I think physical activity is very important for programmers.
 If they won´t exercise enough, their bodies will deteriorate.
+
+The second habit - get it done attitude - is about shipping a product
+although it isn´t done yet, but users can use it. Fixing bugs or 
+adding other functionalities will be delivered next time.
