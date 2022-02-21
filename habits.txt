@@ -1,4 +1,4 @@
-I think physical activity is very important for programmers.
+The first habit - physical activity - is very important for programmers.
 If they won´t exercise enough, their bodies will deteriorate.
 
 The second habit - get it done attitude - is about shipping a product
@@ -20,4 +20,4 @@ The sixth habit - collaboration - Programming is like team sport, it is
 not solo activity. You can help each other.
 
 The seventh habit - programming can be lonely activity more, than other
-jobs, so I should expectate it. 
+jobs, so I should expectate it.
