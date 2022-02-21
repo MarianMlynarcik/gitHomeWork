@@ -8,3 +8,7 @@ adding other functionalities will be delivered next time.
 The third habit - keep it simple - keep code simple as possible, 
 it is going to help me prevent making bugs and make my code readable
 for me and other programmers too.
+
+The fourth habit - zone - Be in the zone is time, when a programmer is
+productive for longer period of time, for example 3 hours without 
+interruption.
