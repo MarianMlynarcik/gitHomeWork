@@ -12,3 +12,6 @@ for me and other programmers too.
 The fourth habit - zone - Be in the zone is time, when a programmer is
 productive for longer period of time, for example 3 hours without 
 interruption.
+
+The fifth habit - always learn - Programmers should always learn new
+things about programming languages, how to better debug.
