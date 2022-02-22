@@ -21,5 +21,3 @@ not solo activity. You can help each other.
 
 The seventh habit - programming can be lonely activity more, than other
 jobs, so I should expectate it.
-
-undoing specific commit that has been pushed
